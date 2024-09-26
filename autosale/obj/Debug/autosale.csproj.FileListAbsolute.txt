@@ -1,0 +1,8 @@
+C:\Users\Tanulo\Desktop\09.26\autosale\autosale\bin\Debug\autosale.exe.config
+C:\Users\Tanulo\Desktop\09.26\autosale\autosale\bin\Debug\autosale.exe
+C:\Users\Tanulo\Desktop\09.26\autosale\autosale\bin\Debug\autosale.pdb
+C:\Users\Tanulo\Desktop\09.26\autosale\autosale\obj\Debug\autosale.csproj.AssemblyReference.cache
+C:\Users\Tanulo\Desktop\09.26\autosale\autosale\obj\Debug\autosale.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\Desktop\09.26\autosale\autosale\obj\Debug\autosale.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\Desktop\09.26\autosale\autosale\obj\Debug\autosale.exe
+C:\Users\Tanulo\Desktop\09.26\autosale\autosale\obj\Debug\autosale.pdb
