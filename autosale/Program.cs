@@ -10,6 +10,7 @@ namespace autosale
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
